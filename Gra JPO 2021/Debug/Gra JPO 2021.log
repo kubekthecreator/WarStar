@@ -1,0 +1,42 @@
+﻿  Client.cpp
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Client.cpp(193,41): warning C4244: "argument": konwersja z "double" do "sf::Int32", możliwa utrata danych
+  Game.cpp
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Game.cpp(65,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Game.cpp(73,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Game.cpp(88,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Game.cpp(133,41): warning C4244: "argument": konwersja z "double" do "sf::Int32", możliwa utrata danych
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Game.cpp(386,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Game.cpp(389,13): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  MySounds.cpp
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\MySounds.cpp(38,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\MySounds.cpp(58,18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Player.cpp
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Player.cpp(13,72): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Player.cpp(13,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Player.cpp(34,53): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Player.cpp(36,106): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Stone.cpp
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Stone.cpp(10,77): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\Stone.cpp(10,37): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Torpedo.cpp
+  Weaponary.cpp
+  main.cpp
+C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Gra JPO 2021\main.cpp(9,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  Gra JPO 2021.vcxproj -> C:\Users\Piotr\Desktop\GRA_JPO\Gra JPO 2021\Debug\Gra JPO 2021.exe
